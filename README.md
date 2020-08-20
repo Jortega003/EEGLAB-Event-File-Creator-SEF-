@@ -1,2 +1,3 @@
 # EEGLAB-Event-File-Creator-SEF-
-These are scripts that make an event file from an exported event file from EGGLAB. This is specifically for SEF experiment.
+Scripts take a EEGLAB event file and renames the unlabeled event markers to read in MNE Python.
+This is specifically for SEF experiment.
